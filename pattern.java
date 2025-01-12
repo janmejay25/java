@@ -14,3 +14,12 @@ public class pattern {
         }
     }
 }
+//output
+//enter string
+//python
+//  p
+//  p y
+//  p y t
+//  p y t h
+//  p y t h o
+//  p y t h o n
