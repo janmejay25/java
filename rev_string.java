@@ -7,6 +7,12 @@ public class rev_string {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
         int len = s.length();
+
+        //divide into two part and print second part
+        String s1 = s.substring(len/2);
+        System.out.println("second part of string is "+s1);
+
+        //reverse the string
         for(int i = len-1;i>=0;i--){
             rev.append(s.charAt(i));
         }
