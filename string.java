@@ -1,6 +1,7 @@
+import java.util.Arrays;
 public class string {
     public static void main(String[] args) {
-        String str = "heLLo world";
+        String str = "HeLLo world";
         // System.out.println("string is "+str);
         // System.out.println("length is "+str.length());
 
@@ -24,8 +25,6 @@ public class string {
             }
         }
         System.out.println("count is :"+count);
-
-        
 
         // //string is imutable(not modify) only temperory changes apply
         // System.out.println("string is "+str);
