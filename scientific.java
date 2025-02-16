@@ -62,21 +62,7 @@ public class scientific {
                     double exponent = sc.nextDouble();
                     System.out.println("Result: " + Math.pow(base, exponent));
                     break;
-                case 7:
-                    System.out.println("Enter an angle in degrees:");
-                    double angle1 = sc.nextDouble();
-                    System.out.println("Result: " + Math.sin(Math.toRadians(angle1)));
-                    break;
-                case 8:
-                    System.out.println("Enter an angle in degrees:");
-                    double angle2 = sc.nextDouble();
-                    System.out.println("Result: " + Math.cos(Math.toRadians(angle2)));
-                    break;
-                case 9:
-                    System.out.println("Enter an angle in degrees:");
-                    double angle3 = sc.nextDouble();
-                    System.out.println("Result: " + Math.tan(Math.toRadians(angle3)));
-                    break;
+              
                 default:
                     System.out.println("Invalid choice");
             }

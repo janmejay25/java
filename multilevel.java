@@ -24,7 +24,6 @@ public class multilevel{
 }
 // ```
 // Output:
-// ```
 // hello
 // good morning
 // how are you

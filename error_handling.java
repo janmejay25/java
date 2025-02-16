@@ -1,6 +1,13 @@
 public class error_handling {
     public static void main(String[] args) {
         System.out.println("hello original");
+        int a,b,div;
+//        try{
+//            div = a/b;
+//            System.out.println("division is "+div);
+//        }catch(exception e){
+//
+//        }
         try {
             int[] number = {1, 2, 3};
             System.out.println(number[5]);
