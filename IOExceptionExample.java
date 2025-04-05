@@ -1,8 +1,8 @@
 import java.io.*;
 
-// public class IOExceptionExample {
-//     public static void main(String[] args) {
-//         BufferedReader reader = null;
+public class IOExceptionExample {
+    public static void main(String[] args) {
+        BufferedReader reader = null;
 
         try {
             // Try to open and read a file
