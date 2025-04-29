@@ -66,3 +66,14 @@ public class SPICalculator {
         }
     }
 }
+
+
+//run using command line arguments
+// javac SPICalculator.java
+// java SPICalculator Alice 101 3 9 4 8 3 10
+
+
+// Output:
+// Name: Alice
+// Roll No: 101
+// SPI: 8.90
