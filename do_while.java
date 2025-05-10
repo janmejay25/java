@@ -5,6 +5,7 @@ public class do_while {
             System.out.println(i);
             i++;}while(i<5);
     }
+    
 
 
 }
