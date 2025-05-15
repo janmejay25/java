@@ -22,9 +22,6 @@ public class Demo {
 
         s = new Circle();
         s.draw();  // Output: Drawing a circle
-
-        
-        
         s = new Rectangle();
         s.draw();  // Output: Drawing a rectangle
     }
